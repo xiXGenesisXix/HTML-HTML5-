@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Basic HTML Practice</title>
+</head>
+<body>
+
+<p>Below is a sample of the headings.</p>
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
+
+<p>This is a paragraph.</p>
+<p>This is another paragraph..<br> but with a line break.</p>
+<p>Below is a sample image. 300*300</p>
+<img src="https://i.ytimg.com/vi/Gw_xvtWJ6q0/mqdefault.jpg" alt="Test Image" width="300" height="300">
+
+<p>Below are hyperlinks that will take you to HTML References : w3schools.com.</p>
+<a href="https://www.w3schools.com/tags/ref_attributes.asp">HTML Attributes<br></a>
+<a href="https://www.w3schools.com/tags/ref_standardattributes.asp">HTML Global Attributes<br></a>
+<a href="https://www.w3schools.com/tags/ref_eventattributes.asp">HTML Event Attributes<br></a>
+<a href="https://www.w3schools.com/tags/ref_colornames.asp">HTML Color Names<br></a>
+<a href="https://www.w3schools.com/tags/ref_canvas.asp">HTML Canvas<br></a>
+<a href="https://www.w3schools.com/tags/ref_av_dom.asp">HTML Audio/Video<br></a>
+<a href="https://www.w3schools.com/tags/ref_charactersets.asp">HTML Character Sets<br></a>
+
+</body>
+</html>
