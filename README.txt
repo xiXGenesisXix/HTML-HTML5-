@@ -6,4 +6,3 @@ and hyperlinks to different HTML references (source: w3schools.com)
 
 About Tribute.txt & Tribute.html:
 Basic Tribute Tiger Project/Page without CSS, hyperlink to (source: World Wild Life)
-
