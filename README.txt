@@ -7,5 +7,3 @@ and hyperlinks to different HTML references (source: w3schools.com)
 About Tribute.txt & Tribute.html:
 Basic Tribute Project/Page, hyperlink to (source: World Wild Life)
 
-How to use:
-Download & Extract Zip 
